@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Hiruthic-gray?style=flat-square&logo=github&logoColor=black&link=https://github.com/hiruthic2002)](https://github.com/hiruthic2002)
 [![Linkedin Badge](https://img.shields.io/badge/-Hiruthic.S.S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiruthic-s-s/)](https://www.linkedin.com/in/hiruthic-s-s/) 
 [![Instagram Badge](https://img.shields.io/badge/-hiruthicsha-red?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/hiruthicsha/)](https://www.instagram.com/hiruthicsha/) 
-[![Twitter Badge](https://img.shields.io/badge/-Hiruthic1-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Hiruthic1)](https://twitter.com/SulthanNK) 
+[![Twitter Badge](https://img.shields.io/badge/-Hiruthic1-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Hiruthic1)](https://twitter.com/Hiruthic1) 
 
 ## Let me introduce me a bit, 
 - I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with my brother's name at the end
