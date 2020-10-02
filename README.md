@@ -29,6 +29,22 @@ Here are some ideas to get you started:
     - Automation
     - Mobile app development **
     
+    
+### Mostly works with:
+- Python 🐍
+- C++ ⚡
+- Web Development 🕸
+    - HTML / CSS 🤖
+    - JS (*Vannila* and Jquery) 🧠
+    - Firebase 🔥
+- Mobile Application Development 📱
+    - Flutter 🎯
+    - Firebase 🔥
+    - SQL \w Python or NodeJS
+- API Endpoints Development
+    - Python (*Flask*) 🧡
+    - NodeJS (⚠*Currently Learning*⚠)
+    
 ### ** - Actively seeking help... Please help me <img src="https://www.pinclipart.com/picdir/big/143-1438381_sad-broken-heart-sticker-for-ios-android-giphy.png" width=50>
 
 -----------------------------------------------------------------------------------------------------------------------------
