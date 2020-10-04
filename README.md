@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Hiruthic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiruthic-s-s/)
 [<img align="left" alt="hiruthicSha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hiruthicsha/)
 
+<br />
+<br />
 
 ### Languages and Tools:
 
