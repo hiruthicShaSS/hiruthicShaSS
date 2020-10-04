@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Hiruthic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiruthic-s-s/)
 [<img align="left" alt="hiruthicSha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hiruthicsha/)
 
-<br />
 
 ### Languages and Tools:
 
@@ -85,13 +84,13 @@ Here are some ideas to get you started:
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
+---------------------------------------
 <a href="https://github.com/hiruthic2002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthic2002&theme=light&hide_langs_below=1" />
 </a>
 
------------------------------------------------------------------------------------------------------------------------------
 ![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthic2002&show_icons=true&hide_border=true)
------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hiruthic2002) 
 
