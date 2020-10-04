@@ -64,14 +64,18 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"/>
 <img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
-<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
----
+<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
+
 <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
@@ -80,11 +84,11 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
----
 
 <a href="https://github.com/hiruthic2002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthic2002&theme=light&hide_langs_below=1" />
 </a>
+
 -----------------------------------------------------------------------------------------------------------------------------
 ![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthic2002&show_icons=true&hide_border=true)
 -----------------------------------------------------------------------------------------------------------------------------
