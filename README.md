@@ -106,7 +106,7 @@ Coding when I am alone: <img src="https://media1.tenor.com/images/877df93ae91fda
 :heart: From [Hiruthic](https://github.com/hiruthic2002)
 
 Part of this README is inspired from:
-- [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/edit/master/README.md)
+- [codeSTACKr](https://github.com/codeSTACKr)
 - [iampawan](https://github.com/iampawan)
 
 <a href="https://icons8.com">Icons by Icons8</a>
