@@ -77,14 +77,15 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
-<!-- ### 📺 Latest YouTube Videos -->
+<br />
+
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- - [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw) -->
+- [Python3: Libraries](https://www.youtube.com/playlist?list=PLfxHa2xNU9nbtSJfLEgIkifEzRO-CTp0l)
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
+ ➡️ [more videos...](https://www.youtube.com/channel/UCHdjWwb7VbiUdTKUFbLousA)
 
 <br />
 <br />
