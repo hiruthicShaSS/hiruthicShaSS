@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Mobile Application Development 📱
     - Flutter 🎯
     - Firebase 🔥
-    - SQL \w Python or NodeJS
+    - Firestor \w Python or Mongoose \w NodeJS
 - API Endpoints Development
     - Python (*Flask*) 🧡
     - NodeJS (⚠*Currently Learning*⚠)
