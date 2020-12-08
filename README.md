@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
 <br />
 
