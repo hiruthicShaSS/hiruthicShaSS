@@ -63,7 +63,6 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png" />
