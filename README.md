@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 
 <img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"/>
+<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/dusk/64/000000/github.png"/>
 <img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
 
 <img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
