@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-hiruthicsha-red?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/hiruthicsha/)](https://www.instagram.com/hiruthicsha/) 
 [![Twitter Badge](https://img.shields.io/badge/-Hiruthic1-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Hiruthic1)](https://twitter.com/Hiruthic1) -->
 [![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sha-resume.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hiruthic1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhiruthic2002&screen_name=_hiruthicSha)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
 
 ## Let me introduce me a bit, 
 - I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with my brother's name at the end
