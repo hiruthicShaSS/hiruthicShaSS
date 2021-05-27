@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <!-- Contact -->
 ### Connect with me:
-[<img align="left" alt="online resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://sha-resume.herokuapp.com/)
-[<img align="left" alt="Libraries | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCHdjWwb7VbiUdTKUFbLousA)
-[<img align="left" alt="Hiruthic1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hiruthic1)
-[<img align="left" alt="Hiruthic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hiruthic-s-s/)
-[<img align="left" alt="hiruthicSha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hiruthicsha/)
+[<img align="left" alt="online resume" width="22px" src="https://img.icons8.com/bubbles/50/000000/domain.png" />](http://sha-resume.herokuapp.com/)
+
+[<img align="left" alt="_hiruthicSha | Twitter" width="22px" src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" />](https://twitter.com/_hiruthicSha)
+[<img align="left" alt="Hiruthic | LinkedIn" width="22px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/hiruthic-s-s/)
+[<img align="left" alt="hiruthicSha | Instagram" width="22px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/hiruthicsha/)
 
 <br />
 <br />
@@ -77,17 +77,7 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
 <br />
-<!--
-### 📺 Latest YouTube Videos
--->
-<!-- YOUTUBE:START 
-- [Python3: Libraries](https://www.youtube.com/playlist?list=PLfxHa2xNU9nbtSJfLEgIkifEzRO-CTp0l)
 
-
- ➡️ [more videos...](https://www.youtube.com/channel/UCHdjWwb7VbiUdTKUFbLousA)
--->
-<br />
-<br />
 
 ---------------------------------------
 <a href="https://github.com/hiruthic2002">
@@ -99,9 +89,6 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hiruthic2002) 
 
-Coding before people: <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" width=200>
-
-Coding when I am alone: <img src="https://media1.tenor.com/images/877df93ae91fdaf68c0e253a810be330/tenor.gif" width=200>
 
 :heart: From [Hiruthic](https://github.com/hiruthic2002)
 
