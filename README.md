@@ -23,39 +23,39 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
 
 ## Let me introduce me a bit, 
-- I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with my brother's name at the end
+- I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with a alias at the end
 - I do random stuffs with programming
+- I can make mobile apps, websites.
 - What are my interests?
     - Deep learning **
     - Web development
     - Automation
-    - Mobile app development **
+    - Mobile app development
     
     
 ### Mostly works with:
 - Python 🐍
-- C++ ⚡
+- JS 📃
 - Web Development 🕸
     - HTML / CSS 🤖
-    - JS (*Vannila* and Jquery) 🧠
-    - Firebase 🔥
+    - JS 🧠
 - Mobile Application Development 📱
     - Flutter 🎯
-    - Firebase 🔥
-    - Firestor \w Python or Mongoose \w NodeJS
 - API Endpoints Development
     - Python (*Flask*) 🧡
-    - NodeJS (⚠*Currently Learning*⚠)
+    - NodeJS 
+- Database
+    - Firestore 🔥
+    - Mongoose
     
 ### ** - Actively seeking help... Please help me <img src="https://www.pinclipart.com/picdir/big/143-1438381_sad-broken-heart-sticker-for-ios-android-giphy.png" width=50>
 
 <!-- Contact -->
 ### Connect with me:
-[<img align="left" alt="online resume" width="22px" src="https://img.icons8.com/bubbles/50/000000/domain.png" />](http://sha-resume.herokuapp.com/)
+[<img align="left" alt="online resume" width="45px" src="https://img.icons8.com/bubbles/50/000000/domain.png" />](http://sha-resume.herokuapp.com/)
 
-[<img align="left" alt="_hiruthicSha | Twitter" width="22px" src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" />](https://twitter.com/_hiruthicSha)
-[<img align="left" alt="Hiruthic | LinkedIn" width="22px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/hiruthic-s-s/)
-[<img align="left" alt="hiruthicSha | Instagram" width="22px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/hiruthicsha/)
+[<img align="left" alt="_hiruthicSha | Twitter" width="45px" src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" />](https://twitter.com/_hiruthicSha)
+[<img align="left" alt="Hiruthic | LinkedIn" width="45px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/hiruthic-s-s/)
 
 <br />
 <br />
@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/dusk/64/000000/github.png"/>
 <img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
 
-<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Python" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<img align="left" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 
@@ -80,17 +80,17 @@ Here are some ideas to get you started:
 
 
 ---------------------------------------
-<a href="https://github.com/hiruthic2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthic2002&theme=light&hide_langs_below=1" />
+<a href="https://github.com/hiruthicShaSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_langs_below=1" />
 </a>
 
-![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthic2002&show_icons=true&hide_border=true)
+![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true)
 ---------------------------------------
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hiruthic2002) 
 
 
-:heart: From [Hiruthic](https://github.com/hiruthic2002)
+:heart: From [Hiruthic](https://github.com/hiruthicShaSS)
 
 Part of this README is inspired from:
 - [codeSTACKr](https://github.com/codeSTACKr)
