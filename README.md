@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sha-resume.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
 
-## Let me introduce me a bit, 
+## Let me introduce a bit, 
 - I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with a alias at the end
 - I do random stuffs with programming
 - I can make mobile apps, websites.
