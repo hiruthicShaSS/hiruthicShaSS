@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hiruthic2002/hiruthic2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Github Badge](https://img.shields.io/badge/-Hiruthic-gray?style=flat-square&logo=github&logoColor=black&link=https://github.com/hiruthic2002)](https://github.com/hiruthic2002)
-[![Linkedin Badge](https://img.shields.io/badge/-Hiruthic.S.S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiruthic-s-s/)](https://www.linkedin.com/in/hiruthic-s-s/) 
-[![Instagram Badge](https://img.shields.io/badge/-hiruthicsha-red?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/hiruthicsha/)](https://www.instagram.com/hiruthicsha/) 
-[![Twitter Badge](https://img.shields.io/badge/-Hiruthic1-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Hiruthic1)](https://twitter.com/Hiruthic1) -->
-[![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sha-resume.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com)](https://sha-resume.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiruthic-s-s)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-## Let me introduce a bit, 
+## Hi there 👋
+
 - I am Hiruthic not *hiruthic2002* or *hiruthicsha*, if you see these names somewhere probably its me, but with a alias at the end
 - I do random stuffs with programming
 - I can make mobile apps, websites.
@@ -32,36 +29,10 @@ Here are some ideas to get you started:
     - Automation
     - Mobile app development
     
-    
-### Mostly works with:
-- Python 🐍
-- JS 📃
-- Web Development 🕸
-    - HTML / CSS 🤖
-    - JS 🧠
-- Mobile Application Development 📱
-    - Flutter 🎯
-- API Endpoints Development
-    - Python (*Flask*) 🧡
-    - NodeJS 
-- Database
-    - Firestore 🔥
-    - MongoDB
-    
-### ** - Actively seeking help... Please help me <img src="https://www.pinclipart.com/picdir/big/143-1438381_sad-broken-heart-sticker-for-ios-android-giphy.png" width=50>
+_** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.com/picdir/big/143-1438381_sad-broken-heart-sticker-for-ios-android-giphy.png" width=50>
 
-<!-- Contact -->
-### Connect with me:
-[<img align="left" alt="online resume" width="45px" src="https://img.icons8.com/bubbles/50/000000/domain.png" />](http://sha-resume.herokuapp.com/)
-
-[<img align="left" alt="_hiruthicSha | Twitter" width="45px" src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" />](https://twitter.com/_hiruthicSha)
-[<img align="left" alt="Hiruthic | LinkedIn" width="45px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />](https://www.linkedin.com/in/hiruthic-s-s/)
-
-<br />
-<br />
-
-### Languages and Tools
-#### Languages
+## Languages and Tools
+### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -70,12 +41,12 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### Backend
+### Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-#### Frameworks
+### Frameworks
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -84,64 +55,35 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
 
-#### Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-#### OS
+### OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-#### IDE's
+### IDE's
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 
-#### Store
+### Store
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-#### Blog's
+### Blog's
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hiruthicsha.medium.com/)
 
-#### Funding
+### Funding
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiruthic?locale.x=en_GB)
 
-<img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-
-<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/96/000000/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://img.icons8.com/dusk/64/000000/github.png"/>
-<img align="left" alt="Terminal" width="35px" src="https://img.icons8.com/color/48/000000/console.png" />
-
-<img align="left" alt="C++" width="35px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Python" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Flutter" width="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img align="left" alt="Firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
-<br />
-
-
----------------------------------------
 <a href="https://github.com/hiruthicShaSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_langs_below=1" />
 </a>
 
 ![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true)
----------------------------------------
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hiruthic2002) 
-
-
-:heart: From [Hiruthic](https://github.com/hiruthicShaSS)
-
-Part of this README is inspired from:
-- [codeSTACKr](https://github.com/codeSTACKr)
-- [iampawan](https://github.com/iampawan)
-
-<a href="https://icons8.com">Icons by Icons8</a>
