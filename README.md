@@ -81,9 +81,11 @@ _** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.
 
 ### Funding
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiruthic?locale.x=en_GB)
+&nbsp;
 
 <a href="https://github.com/hiruthicShaSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_langs_below=1&langs_count=8&layout=compact&bg_color=0,000000,434343" />
 </a>
+&nbsp;
 
-![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true)
+![Hiruthic's github stats](https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343)
