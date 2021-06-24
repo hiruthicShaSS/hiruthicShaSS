@@ -2,7 +2,7 @@ name: Latest Medium story workflow
 on:
   schedule:
     # Runs every day
-    - cron: '0 1 * * *'
+    - cron: '0 1 * * SUN'
   workflow_dispatch:
 
 jobs:
