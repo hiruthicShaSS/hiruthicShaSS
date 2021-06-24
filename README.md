@@ -119,6 +119,12 @@ _** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.
   [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiruthic?locale.x=en_GB)
 </div>
 
+
+## Latest writing's
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hiruthicSha/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hiruthicSha/0" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hiruthicSha/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hiruthicSha/1" alt="Recent Article 2">
+
+
 <a href="https://github.com/hiruthicShaSS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
   <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343" />
