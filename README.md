@@ -121,6 +121,9 @@ _** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [My journey with git in a professional project [Beginner Mode] Part 2](https://hiruthicsha.medium.com/my-journey-with-git-in-a-professional-project-beginner-mode-part-2-9d9e12a7721?source=rss-54f9c8e7dc16------2)
+- [My journey with git in a professional project [Beginner Mode]](https://hiruthicsha.medium.com/my-journey-with-git-in-a-professional-project-beginner-mode-72c4406e8f94?source=rss-54f9c8e7dc16------2)
+- [Develop your discipline](https://hiruthicsha.medium.com/develop-your-discipline-c508764071aa?source=rss-54f9c8e7dc16------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
