@@ -125,7 +125,7 @@ _** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.
 - [My journey with git in a professional project [Beginner Mode]](https://hiruthicsha.medium.com/my-journey-with-git-in-a-professional-project-beginner-mode-72c4406e8f94?source=rss-54f9c8e7dc16------2)
 - [Develop your discipline](https://hiruthicsha.medium.com/develop-your-discipline-c508764071aa?source=rss-54f9c8e7dc16------2)
 <!-- MEDIUM-STORY-LIST:END -->
-
+![example workflow](https://github.com/hiruthicShaSS/hiruthicShaSS/actions/workflows/latest-medium-article.yml/badge.svg?style=for-the-badge)
 ---
 
 <a href="https://github.com/hiruthicShaSS">
