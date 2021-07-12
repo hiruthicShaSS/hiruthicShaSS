@@ -117,6 +117,7 @@ _** - Actively seeking help... Please help me_ <img src="https://www.pinclipart.
 
 ### Funding
   [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hiruthic?locale.x=en_GB)
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hiruthicSha)
 </div>
 
 ### 📚 Latest Medium Story
