@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com)](https://sha-resume.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiruthic-s-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiruthicSha)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 </div>
 
