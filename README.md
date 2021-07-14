@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/56349092?s=150&u=4b86c09afa38bdef2710fda02362a74a01afd54a&v=4"/>
+<img src="img/circle-cropped.png" width=150/>
 
 <i>Yeah I have a beard, you have problem with that? Huh? </i>
 
