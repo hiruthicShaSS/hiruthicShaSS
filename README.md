@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <i>Yeah I have a beard, you have problem with that? Huh? </i>
 
-[![Website](https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com)](https://sha-resume.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiruthicSha)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
+[![Website][website-shield]][website-url]
+[![Twitter Follow][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+![][visitor-shield]
+  
 </div>
 
 ## Hi there 👋
@@ -157,3 +157,12 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
   <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343" />
 </a>
+
+
+[website-url]: https://sha-resume.herokuapp.com/
+[website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
+[twitter-url]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha
+[twitter-shield]: https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/hiruthicSha
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[visitor-shield]: https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A
