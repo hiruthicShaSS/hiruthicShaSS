@@ -165,4 +165,4 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 [twitter-shield]: https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/hiruthicSha
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[visitor-shield]: https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A
+[visitor-shield]: https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=hiruthicShaSS&countColorcountColor&countColor=%237B1E7A
