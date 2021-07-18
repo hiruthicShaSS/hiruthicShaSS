@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="img/circle-cropped.png" width=150/>
 
+
 <i>Yeah I have a beard, you have problem with that? Huh? </i>
 
 [![Website][website-shield]][website-url]
@@ -152,11 +153,13 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <a href="https://github.com/hiruthicShaSS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
   <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343" />
-  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 </a>
 
 
