@@ -156,6 +156,8 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@97107db6-45ab-40c5-8c14-d46acfeeb6e6/e4def51f-872c-45c3-a912-57ec77f741d2.png" width=400/></a>
+
 
 <a href="https://github.com/hiruthicShaSS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
