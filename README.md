@@ -155,7 +155,11 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   41 mins         ██████████▒░░░░░░░░░░░░░░   41.36 % 
+HTML         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.80 % 
+EJS          18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Git Config   14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 <!--END_SECTION:waka-->
 
