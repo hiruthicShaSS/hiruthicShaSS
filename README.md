@@ -144,6 +144,7 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 ### 📚 Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Should you learn Flutter](https://hiruthicsha.medium.com/should-you-learn-flutter-3b92615e65c1?source=rss-54f9c8e7dc16------2)
 - [Blockchain, Huh? Make it yourself](https://hiruthicsha.medium.com/blockchain-huh-make-it-yourself-94cd1f50b0c5?source=rss-54f9c8e7dc16------2)
 - [Git basics [Beginner Mode] Part 2](https://hiruthicsha.medium.com/my-journey-with-git-in-a-professional-project-beginner-mode-part-2-9d9e12a7721?source=rss-54f9c8e7dc16------2)
 - [Git basics [Beginner Mode]](https://hiruthicsha.medium.com/my-journey-with-git-in-a-professional-project-beginner-mode-72c4406e8f94?source=rss-54f9c8e7dc16------2)
