@@ -168,8 +168,10 @@ JavaScript   11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <a href="https://github.com/hiruthicShaSS">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiruthicshass" alt="hiruthicshass" /></a> </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
   <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiruthicshass&" alt="hiruthicshass" /></p>
 </a>
 
 
