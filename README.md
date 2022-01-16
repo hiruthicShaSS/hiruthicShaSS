@@ -145,11 +145,11 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 ### 📚 Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Just an update](https://hiruthicsha.medium.com/just-an-update-4a26b992149c?source=rss-54f9c8e7dc16------2)
 - [How to choose a programming language](https://blog.devgenius.io/how-to-choose-a-programming-language-eb9114f29570?source=rss-54f9c8e7dc16------2)
 - [Learn programming languages faster](https://blog.devgenius.io/learn-programming-languages-faster-146cde359284?source=rss-54f9c8e7dc16------2)
 - [Fixing mistakes with Git](https://hiruthicsha.medium.com/fixing-mistakes-with-git-97d396bd5e00?source=rss-54f9c8e7dc16------2)
 - [Developer Discipline](https://hiruthicsha.medium.com/developer-discipline-c12b7e46b55e?source=rss-54f9c8e7dc16------2)
-- [Should you learn Flutter](https://hiruthicsha.medium.com/should-you-learn-flutter-3b92615e65c1?source=rss-54f9c8e7dc16------2)
 <!-- MEDIUM-STORY-LIST:END -->
   ![Medium workflow](https://github.com/hiruthicShaSS/hiruthicShaSS/actions/workflows/latest-medium-article.yml/badge.svg?style=for-the-badge)
 
