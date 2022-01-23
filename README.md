@@ -169,10 +169,12 @@ Python   35 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <a href="https://github.com/hiruthicShaSS">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,000000,434343" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" height=200px />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,434343,000000" height=200px />
 </a>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hiruthicShaSS&theme=github&hide_border=true&hide_title=true&area=true&)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiruthicShaSS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 [website-url]: https://hiruthicsha.com/
 [website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
