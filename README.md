@@ -84,6 +84,15 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 </div>
 
 <div align="center">
+  
+### API's
+  
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+
+</div>
+
+<div align="center">
 
 ### Tools
 
