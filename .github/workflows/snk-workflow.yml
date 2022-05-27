@@ -1,11 +1,12 @@
 name: SnEk boi
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 1 * * SUN"
+  workflow_dispatch:
 
 jobs:
   buildSnek:
+    name: Build sneki boi
     runs-on: ubuntu-latest
     steps:
       - name: generate-snake-game-from-github-contribution-grid
