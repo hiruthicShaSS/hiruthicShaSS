@@ -1,0 +1,20 @@
+name: SnEk boi
+on:
+  schedule:
+    - cron: "0 1 * * SUN"
+  workflow_dispatch:
+
+jobs:
+  buildSnek:
+    name: Build sneki boi
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
