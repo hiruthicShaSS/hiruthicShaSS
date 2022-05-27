@@ -1,11 +1,5 @@
-- name: generate-snake-game-from-github-contribution-grid
-  
-  on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * SUN"
-
-  uses: Platane/snk/svg-only@v2
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk/svg-only@v2
   with:
     github_user_name: ${{ github.repository_owner }}
 
@@ -22,3 +16,10 @@
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * SUN"
+
+  
