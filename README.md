@@ -179,6 +179,8 @@ JSON         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+## Look at me goooo...
+![My snek 😂](https://github.com/hiruthicShaSS/hiruthicShaSS/blob/snek-output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" height=200px />
 <img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,434343,000000" height=200px />
