@@ -186,6 +186,12 @@ JSON         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hiruthicShaSS&theme=github&hide_border=true&hide_title=true&area=true&)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiruthicShaSS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hiruthicShaSS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 [website-url]: https://hiruthicsha.com/
 [website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
 [twitter-url]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha
