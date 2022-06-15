@@ -191,9 +191,6 @@ JavaScript   20 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hiruthicShaSS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 [website-url]: https://hiruthicsha.com/
 [website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
 [twitter-url]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha
