@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Snapchat][snapchat-shield]][snapchat-url]
+[![Instagram][instagram-shield]][instagram-url]
 ![][visitor-shield]
   
 </div>
