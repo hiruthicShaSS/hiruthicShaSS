@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Website][website-shield]][website-url]
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Snapchat][snapchat-shield]][snapchat-url]
 ![][visitor-shield]
   
 </div>
@@ -101,6 +102,8 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
+![Virtual Box](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 </div>
 
@@ -130,6 +133,7 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 ### Store
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7887686445131108206)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](#)
 
 </div>
 
@@ -197,4 +201,8 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [twitter-shield]: https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/hiruthicSha
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[snapchat-shield]: https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white
+[snapchat-url]: https://snapchat.com/add/hiruthicsha
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/hiruthicsha/
 [visitor-shield]: https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=hiruthicShaSS&countColorcountColor&countColor=%237B1E7A
