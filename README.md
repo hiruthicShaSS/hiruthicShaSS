@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Website][website-shield]][website-url]
 [![Twitter Follow][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Snapchat][snapchat-shield]][snapchat-url]
 [![Instagram][instagram-shield]][instagram-url]
 ![][visitor-shield]
   
@@ -202,8 +201,6 @@ YAML       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [twitter-shield]: https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/hiruthicSha
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[snapchat-shield]: https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white
-[snapchat-url]: https://snapchat.com/add/hiruthicsha
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/hiruthicsha/
 [visitor-shield]: https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hiruthicShaSS&repo=hiruthicShaSS&countColorcountColor&countColor=%237B1E7A
