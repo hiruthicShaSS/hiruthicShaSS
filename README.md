@@ -186,14 +186,15 @@ Markdown     4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## Look at me goooo...
 ![My snek 😂](https://github.com/hiruthicShaSS/hiruthicShaSS/blob/snek-output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" height=200px />
-<img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,434343,000000" height=200px />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruthicShaSS&theme=dark&hide_border=true&hide_langs_below=1&langs_count=6&layout=compact&bg_color=0,000000,434343" height=200px /><img src="https://github-readme-stats.vercel.app/api?username=hiruthicShaSS&show_icons=true&theme=dark&hide_border=true&bg_color=0,434343,000000" height=200px />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hiruthicShaSS&theme=github&hide_border=true&hide_title=true&area=true&)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiruthicShaSS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-## 🏆GitHub Trophies
+### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hiruthicShaSS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxuemw9lpzhfs8vey9l31y7o1&cover_image=true&theme=novatorem&show_offline=false&background_color=7A7BF5&bar_color_cover=true)
 
 [website-url]: https://hiruthicsha.com/
 [website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
