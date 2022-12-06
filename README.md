@@ -196,7 +196,7 @@ EJS          11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![](https://github-profile-trophy.vercel.app/?username=hiruthicShaSS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 [website-url]: https://hiruthicsha.com/
-[website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2Fsha-resume.herokuapp.com
+[website-shield]: https://img.shields.io/website?label=hiruthicSha.com&style=for-the-badge&url=https%3A%2F%2FhiruthicSha.com
 [twitter-url]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_hiruthicSha&screen_name=_hiruthicSha
 [twitter-shield]: https://img.shields.io/twitter/follow/_hiruthicSha?color=1DA1F2&logo=twitter&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/hiruthicSha
