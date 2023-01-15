@@ -158,11 +158,11 @@ _\*\* - Actively seeking help... Please help me_ <img src="https://www.pinclipar
 ### 📚 Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [I Didn’t Use UI Libraries for Building My Portfolio. Here’s Why](https://blog.devgenius.io/i-didnt-use-ui-libraries-for-building-my-portfolio-here-s-why-46e2e837e4bf?source=rss-54f9c8e7dc16------2)
 - [First Internship as Flutter Developer](https://blog.devgenius.io/first-internship-as-flutter-developer-5fbd93086c28?source=rss-54f9c8e7dc16------2)
 - [How I got my first internship?](https://blog.devgenius.io/how-i-got-my-first-internship-672e62840c4f?source=rss-54f9c8e7dc16------2)
 - [Just an update](https://hiruthicsha.medium.com/just-an-update-4a26b992149c?source=rss-54f9c8e7dc16------2)
 - [How to choose a programming language](https://blog.devgenius.io/how-to-choose-a-programming-language-eb9114f29570?source=rss-54f9c8e7dc16------2)
-- [Learn programming languages faster](https://blog.devgenius.io/learn-programming-languages-faster-146cde359284?source=rss-54f9c8e7dc16------2)
 <!-- MEDIUM-STORY-LIST:END -->
   ![Medium workflow](https://github.com/hiruthicShaSS/hiruthicShaSS/actions/workflows/latest-medium-article.yml/badge.svg?style=for-the-badge)
 
